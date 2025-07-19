@@ -1,0 +1,26 @@
+{
+  "name": "BibleQuizNow - Interactive Bible Quizzes",
+  "short_name": "BibleQuizNow",
+  "description": "Interactive Bible quizzes covering all 66 books. Test your biblical knowledge with 20-25 question quizzes, instant scoring, and detailed explanations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["education", "lifestyle", "books"],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
